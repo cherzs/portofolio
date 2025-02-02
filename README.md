@@ -18,5 +18,3 @@ A modern and responsive portfolio website built with HTML, SCSS, and JavaScript.
 - SCSS
 - JavaScript
 - Vite
-
-## Project Structure 
